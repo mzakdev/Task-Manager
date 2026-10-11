@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --color-pistachio : #B7E47A ; 
+  --color-black : black;
+  --color-ivory : #F2F2ED;
+}
+
+font {
+  font-family: 'Inter' , sans-serif;
+}
